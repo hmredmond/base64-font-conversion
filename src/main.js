@@ -1,3 +1,3 @@
 // Load app style
-import '@/font/font.scss'
+import './font.scss'
 
