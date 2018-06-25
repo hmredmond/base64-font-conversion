@@ -2,6 +2,13 @@
 
 Simple harness for generating the base64 version of font files for web use.
 
+## Getting Started
+
+- run the npm install command in the terminal to install the project dependacies
+
+```bash
+$ npm install
+```
 
 ## How to Use
 
